@@ -1,0 +1,10 @@
+@import "../../../styles.scss";
+
+.input {
+  border-image-source: $brand-gradient;
+  border-image-slice: 1;
+  padding: 0.8rem 1.5rem;
+  outline: none;
+  font-family: $secondary-font;
+  font-size: 1rem;;
+}

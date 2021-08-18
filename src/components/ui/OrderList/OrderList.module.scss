@@ -1,0 +1,13 @@
+@import "../../../styles.scss";
+
+.icon {
+  cursor: pointer;
+  fill: $primary-blue;
+  height: 25px;
+  width: 25px;
+  transition: $smooth-transition;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}

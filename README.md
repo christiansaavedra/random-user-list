@@ -1,2 +1,2 @@
 # random-user-list
-Created with CodeSandbox
+Typescript, React Hooks and Scss
